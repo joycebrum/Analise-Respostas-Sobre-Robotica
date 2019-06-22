@@ -17,12 +17,15 @@ Análise sobre as respostas do formulário https://docs.google.com/forms/d/e/1FA
   * Ensino Médio Completo
   * Ensino Superior Incompleto
   * Ensino Superior Completo
+  
 **Você aceitaria fazer uma cirurgia feita por robôs?**
   * Sim
   * Não
   * Depende
+  
 **Por quê**
   (livre preenchimento)
+  
 **O que você acha da substituição de humanos por robôs na medicina?**
   (livre preenchimento)
  
