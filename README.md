@@ -1,4 +1,4 @@
-# Analise Respostas Sobre Uso da Robótica na Mediciona
+# Analise Respostas Sobre Uso da Robótica na Medicina
 Análise sobre as respostas do formulário https://docs.google.com/forms/d/e/1FAIpQLSctUPMWDoSIW-JMDTUPeENxO-zV8hgt2E73XP2uUndtVFHv4g/viewform cujo formato era o seguinte:
 
 **Idade:**
